@@ -1,2 +1,0 @@
-# Anjude
-- this is index
