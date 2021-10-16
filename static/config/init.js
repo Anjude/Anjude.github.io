@@ -2,6 +2,7 @@
  * 动态加载初始资源
  */
 (function () {
+  console.log('加载初始资源')
   var resList = {
     icon: window.SITE_CONFIG.cdnUrl + '/static/img/favicon.ico',
     css: [
