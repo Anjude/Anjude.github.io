@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7422e38b-ab60-4f04-81f4-eeb10fa263ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/js/0.1551782de0dfe4079ff6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/0.1551782de0dfe4079ff6.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/2.d04e72e3e5e7d1c9ff8a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/2.d04e72e3e5e7d1c9ff8a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/app.e80150662bf425653246.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/app.e80150662bf425653246.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/manifest.e2657ec510e7e97b1e59.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.9aa6b13b3a2cd7a28ba7.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/manifest.9aa6b13b3a2cd7a28ba7.js.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Environment\maven\localRepository" />
+        <option name="mavenHome" value="D:\Environment\maven\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Environment\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zaer6Kp4RWFFce2AKpwQmWTjBq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7422e38b-ab60-4f04-81f4-eeb10fa263ec" name="Default Changelist" comment="" />
+      <created>1634390826993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634390826993</updated>
+      <workItem from="1634390830177" duration="751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1010,update" />
+    <option name="LAST_COMMIT_MESSAGE" value="1010,update" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<changelist name="Uncommitted_changes_before_Update_at_2021_10_16_21_35_[Default_Changelist]" date="1634391338268" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_10_16_21_35_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2021/10/16 21:35 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="static/css/app.6507c6d5470c29d7f66057a217593717.css.map" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="static/img/weindex.a2f115b.png" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="static/fonts/element-icons.732389d.ttf" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="static/img/logo.100dae8.png" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="static/fonts/element-icons.535877f.woff" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>
